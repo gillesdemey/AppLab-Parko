@@ -1,0 +1,1734 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ITSPS xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ITSPS20130117.xsd">
+  <Authority>
+    <GeneralInfo>
+      <IDInfo>
+        <Name>Parko agb</Name>
+        <URL>www.parko.be</URL>
+      </IDInfo>
+      <Contact>
+        <FirstName>Parko </FirstName>
+        <LastName>agb</LastName>
+        <Position>Parkeerbedrijf</Position>
+        <Phone>+3256281212</Phone>
+        <Fax>+3256281213</Fax>
+        <Email>info@parko.be</Email>
+      </Contact>
+      <Address>
+        <StreetName>Koning Albertstraat</StreetName>
+        <HouseNumber>17</HouseNumber>
+        <PostalCode>8500</PostalCode>
+        <Location>Kortrijk</Location>
+        <Country>Belgium</Country>
+      </Address>
+      <GeoLocation>
+        <Latitude>50.82570027264116</Latitude>
+        <Longitude>3.262735155906739</Longitude>
+      </GeoLocation>
+    </GeneralInfo>
+    <Operator>
+      <GeneralInfo>
+        <IDInfo>
+          <Name>Parko agb</Name>
+          <URL>www.parko.be</URL>
+        </IDInfo>
+        <Contact>
+          <FirstName>Parko</FirstName>
+          <LastName>agb</LastName>
+          <Position>Parkeerbedrijf</Position>
+          <Phone>+3256281212</Phone>
+          <Fax>+3256281213</Fax>
+          <Email>info@parko.be</Email>
+        </Contact>
+        <Address>
+          <StreetName>Koning Albertstraat</StreetName>
+          <HouseNumber>17</HouseNumber>
+          <PostalCode>8500</PostalCode>
+          <Location>Kortrijk</Location>
+          <Country>Belgium</Country>
+        </Address>
+        <GeoLocation>
+          <Latitude>50.826103514817206</Latitude>
+          <Longitude>3.262735155906739</Longitude>
+        </GeoLocation>
+      </GeneralInfo>
+      <OffstreetParking>
+        <GeneralInfo>
+          <IDInfo>
+            <Name>P Broeltorens</Name>
+            <LogoURL>http://www.kortrijk.be/files/kortrijk/header/strip_Broeltorens.jpg</LogoURL>
+            <URL>http://www.kortrijk.be/adressen/p-broeltorens</URL>
+          </IDInfo>
+          <Contact>
+            <FirstName>Parko</FirstName>
+            <LastName>agb</LastName>
+            <Position>Exploitant</Position>
+            <Phone>+3256281212</Phone>
+            <Fax>+3256281213</Fax>
+            <Email>info@parko.be</Email>
+          </Contact>
+          <Address>
+            <StreetName>Damkaai</StreetName>
+            <PostalCode>8500</PostalCode>
+            <Location>Kortrijk</Location>
+            <Country>Belgium</Country>
+          </Address>
+          <GeoLocation>
+            <Latitude>50.8312216768968</Latitude>
+            <Longitude>3.268091527309480</Longitude>
+          </GeoLocation>
+        </GeneralInfo>
+        <ParkingType>open space</ParkingType>
+        <ParkingType>parking zone</ParkingType>
+        <ParkingType>single level</ParkingType>
+        <Feature>wheelchair accessible</Feature>
+        <PermittedVehicle>heavy goods vehicles</PermittedVehicle>
+        <PermittedVehicle>large car</PermittedVehicle>
+        <PermittedVehicle>light goods vehicles</PermittedVehicle>
+        <PermittedVehicle>minibus</PermittedVehicle>
+        <PermittedVehicle>small car</PermittedVehicle>
+        <UserType>all users</UserType>
+        <SecurityType>cctv</SecurityType>
+        <SecurityType>fences</SecurityType>
+        <SecurityType>security staff</SecurityType>
+        <SupervisionType>control centre off site</SupervisionType>
+        <SupervisionType>patrol</SupervisionType>
+        <SupervisionType>remote</SupervisionType>
+        <PaymentMethod>cash</PaymentMethod>
+        <PaymentMethod>credit card</PaymentMethod>
+        <Capacity>320</Capacity>
+        <Reservations />
+        <SizeRestrictions>
+          <MaxWidth>0</MaxWidth>
+          <MaxHeight>0</MaxHeight>
+        </SizeRestrictions>
+        <Assessment>
+          <SecuritySelf>0</SecuritySelf>
+          <ServiceSelf>0</ServiceSelf>
+          <SecurityFormal>0</SecurityFormal>
+          <ServiceFormal>0</ServiceFormal>
+        </Assessment>
+        <Tariff>
+          <Name>PBR-10D</Name>
+          <Amount>0</Amount>
+          <Currency>EUR</Currency>
+          <Duration>0u</Duration>
+          <DurationLimit>=</DurationLimit>
+          <UserType>all users</UserType>
+          <UserType>visitors</UserType>
+          <VehicleType>all cars</VehicleType>
+          <FeeDescription>Daytime Tariff (8am-8pm) First Hour for Free - Dagtarief (8u-20u) Eerste Uur 0 - Taux journalier (8h-20h) Premier Heur Gratuit</FeeDescription>
+        </Tariff>
+        <Tariff>
+          <Name>PBR-12D</Name>
+          <Amount>1</Amount>
+          <Currency>EUR</Currency>
+          <Duration>1u</Duration>
+          <DurationLimit>=</DurationLimit>
+          <UserType>all users</UserType>
+          <UserType>visitors</UserType>
+          <VehicleType>all cars</VehicleType>
+          <FeeDescription>Daytime Tariff (8am-8pm) Max parktime 1h20 for 1 Euro - Dagtarief (8u-20u) Max 1u20 parkeren voor 1 Euro - Taux journalier (8h-20h) temps de stationnement max 1h20 pour 1 Euro</FeeDescription>
+        </Tariff>
+        <Tariff>
+          <Name>PBR-14D</Name>
+          <Amount>1.5</Amount>
+          <Currency>EUR</Currency>
+          <Duration>1u20</Duration>
+          <DurationLimit>=</DurationLimit>
+          <UserType>all users</UserType>
+          <UserType>visitors</UserType>
+          <VehicleType>all cars</VehicleType>
+          <FeeDescription>Daytime Tariff (8am-8pm) Max parktime 1h40 for 1,50 Euro - Dagtarief (8u-20u) Max 1u40 parkeren voor 1,50 Euro - Taux journalier (8h-20h) temps de stationnement max 1h40 pour 1,50 Euro</FeeDescription>
+        </Tariff>
+        <Tariff>
+          <Name>PBR-20D</Name>
+          <Amount>1.5</Amount>
+          <Currency>EUR</Currency>
+          <Duration>1u40</Duration>
+          <DurationLimit>=</DurationLimit>
+          <UserType>all users</UserType>
+          <UserType>visitors</UserType>
+          <VehicleType>all cars</VehicleType>
+          <FeeDescription>Daytime Tariff (8am-8pm) Max parktime 2h for 1,50 Euro - Dagtarief (8u-20u) Max 2u parkeren voor 1,50 Euro - Taux journalier (8h-20h) temps de stationnement max 2h pour 1,50 Euro</FeeDescription>
+        </Tariff>
+        <Tariff>
+          <Name>PBR-23D</Name>
+          <Amount>2</Amount>
+          <Currency>EUR</Currency>
+          <Duration>2u</Duration>
+          <DurationLimit>=</DurationLimit>
+          <UserType>all users</UserType>
+          <UserType>visitors</UserType>
+          <VehicleType>all cars</VehicleType>
+          <FeeDescription>Daytime Tariff (8am-8pm) Max parktime 2h30 for 2 Euro - Dagtarief (8u-20u) Max 2u30 parkeren voor 2 Euro - Taux journalier (8h-20h) temps de stationnement max 2h30 pour 2 Euro</FeeDescription>
+        </Tariff>
+        <Tariff>
+          <Name>PBR-30D</Name>
+          <Amount>2</Amount>
+          <Currency>EUR</Currency>
+          <Duration>2u30</Duration>
+          <DurationLimit>=</DurationLimit>
+          <UserType>all users</UserType>
+          <UserType>visitors</UserType>
+          <VehicleType>all cars</VehicleType>
+          <FeeDescription>Daytime Tariff (8am-8pm) Max parktime 3h for 2 Euro - Dagtarief (8u-20u) Max 3u parkeren voor 2 Euro - Taux journalier (8h-20h) temps de stationnement max 3h pour 2 Euro</FeeDescription>
+        </Tariff>
+        <Tariff>
+          <Name>PBR-33D</Name>
+          <Amount>2</Amount>
+          <Currency>EUR</Currency>
+          <Duration>3u</Duration>
+          <DurationLimit>=</DurationLimit>
+          <UserType>all users</UserType>
+          <UserType>visitors</UserType>
+          <VehicleType>all cars</VehicleType>
+          <FeeDescription>Daytime Tariff (8am-8pm) Max parktime 3h30 for 2 Euro - Dagtarief (8u-20u) Max 3u30 parkeren voor 2 Euro - Taux journalier (8h-20h) temps de stationnement max 3h30 pour 2 Euro</FeeDescription>
+        </Tariff>
+        <Tariff>
+          <Name>PBR+33N</Name>
+          <Amount>1.5</Amount>
+          <Currency>EUR</Currency>
+          <Duration>3u30</Duration>
+          <DurationLimit>=</DurationLimit>
+          <UserType>all users</UserType>
+          <UserType>visitors</UserType>
+          <VehicleType>all cars</VehicleType>
+          <FeeDescription>Nighttime Tariff (8pm-8am) parktime over 3h30 for 1,50 Euro with a maximum of 12 hours - Nachttarief (20u-8u) Meer dan 3u30 parkeren voor 1,50 Euro met een maximum van 12 uren - Tarif de nuit (8h-20h) temps de stationnement plus de 3h30 pour 1,50 Euro</FeeDescription>
+        </Tariff>
+        <Tariff>
+          <Name>PBR-33N</Name>
+          <Amount>1.5</Amount>
+          <Currency>EUR</Currency>
+          <Duration>3u</Duration>
+          <DurationLimit>=</DurationLimit>
+          <UserType>all users</UserType>
+          <UserType>visitors</UserType>
+          <VehicleType>all cars</VehicleType>
+          <FeeDescription>Nighttime Tariff (8pm-8am) Max parktime 3h30 for 1,50 Euro - Nachttarief (20u-8u) Max 3u30 parkeren voor 1,50 Euro - Tarif de nuit (20h-8h) temps de stationnement max 3h30 pour 1,50 Euro</FeeDescription>
+        </Tariff>
+        <Tariff>
+          <Name>PBR-30N</Name>
+          <Amount>1.5</Amount>
+          <Currency>EUR</Currency>
+          <Duration>2u30</Duration>
+          <DurationLimit>=</DurationLimit>
+          <UserType>all users</UserType>
+          <UserType>visitors</UserType>
+          <VehicleType>all cars</VehicleType>
+          <FeeDescription>Nighttime Tariff (8pm-8am) Max parktime 3h for 1,50 Euro - Nachttarief (20u-8u) Max 3u parkeren voor 1,50 Euro - Tarif de nuit (20h-8h) temps de stationnement max 3h pour 1,50 Euro</FeeDescription>
+        </Tariff>
+        <Tariff>
+          <Name>PBR-23N</Name>
+          <Amount>1.5</Amount>
+          <Currency>EUR</Currency>
+          <Duration>2u</Duration>
+          <DurationLimit>=</DurationLimit>
+          <UserType>all users</UserType>
+          <UserType>visitors</UserType>
+          <VehicleType>all cars</VehicleType>
+          <FeeDescription>Nighttime Tariff (8pm-8am) Max parktime 2h30 for 1,50 Euro - Nachttarief (20u-8u) Max 2u30 parkeren voor 1,50 Euro - Tarif de nuit (20h-8h) temps de stationnement max 2h30 pour 1,50 Euro</FeeDescription>
+        </Tariff>
+        <Tariff>
+          <Name>PBR-20N</Name>
+          <Amount>1</Amount>
+          <Currency>EUR</Currency>
+          <Duration>1u40</Duration>
+          <DurationLimit>=</DurationLimit>
+          <UserType>all users</UserType>
+          <UserType>visitors</UserType>
+          <VehicleType>all cars</VehicleType>
+          <FeeDescription>Nighttime Tariff (8pm-8am) Max parktime 2h for 1 Euro - Nachttarief (20u-8u) Max 2u parkeren voor 1 Euro - Tarif de nuit (20h-8h) temps de stationnement max 2h pour 1 Euro</FeeDescription>
+        </Tariff>
+        <Tariff>
+          <Name>PBR-14N</Name>
+          <Amount>1</Amount>
+          <Currency>EUR</Currency>
+          <Duration>1u20</Duration>
+          <DurationLimit>=</DurationLimit>
+          <UserType>all users</UserType>
+          <UserType>visitors</UserType>
+          <VehicleType>all cars</VehicleType>
+          <FeeDescription>Nighttime Tariff (8pm-8am) Max parktime 1h40 for 1 Euro - Nachttarief (20u-8u) Max 1u40 parkeren voor 1 Euro - Tarif de nuit (20h-8h) temps de stationnement max 1h40 pour 1 Euro</FeeDescription>
+        </Tariff>
+        <Tariff>
+          <Name>PBR-12N</Name>
+          <Amount>0.5</Amount>
+          <Currency>EUR</Currency>
+          <Duration>1u</Duration>
+          <DurationLimit>=</DurationLimit>
+          <UserType>all users</UserType>
+          <UserType>visitors</UserType>
+          <VehicleType>all cars</VehicleType>
+          <FeeDescription>Nighttime Tariff (8pm-8am) Max parktime 1h20 for 0,50 Euro - Nachttarief (20u-8u) Max 1u20 parkeren voor 0,50 Euro - Tarif de nuit (20h-8h) temps de stationnement max 1h20 pour 0,50 Euro</FeeDescription>
+        </Tariff>
+        <Tariff>
+          <Name>PBR-10N</Name>
+          <Amount>0</Amount>
+          <Currency>EUR</Currency>
+          <Duration>0u</Duration>
+          <DurationLimit>=</DurationLimit>
+          <UserType>all users</UserType>
+          <UserType>visitors</UserType>
+          <VehicleType>all cars</VehicleType>
+          <FeeDescription>Nighttime Tariff (8pm-8am) First Hour For Free - Nachttarief (20u-8u) Eerste Uur Gratis - Tarif de nuit (20h-8h) Premier Heur Gratuit</FeeDescription>
+        </Tariff>
+        <OpeningHour>
+          <Name>PBR-MONDAY</Name>
+          <StartDate xsi:nil="true" />
+          <EndDate xsi:nil="true" />
+          <StartTime>00:00:00.0000000+01:00</StartTime>
+          <EndTime>00:00:00.0000000+01:00</EndTime>
+          <Day>Monday</Day>
+        </OpeningHour>
+        <OpeningHour>
+          <Name>PBR-TUESDAY</Name>
+          <StartDate xsi:nil="true" />
+          <EndDate xsi:nil="true" />
+          <StartTime>00:00:00.0000000+01:00</StartTime>
+          <EndTime>00:00:00.0000000+01:00</EndTime>
+          <Day>Tuesday</Day>
+        </OpeningHour>
+        <OpeningHour>
+          <Name>PBR-WEDNESDAY</Name>
+          <StartDate xsi:nil="true" />
+          <EndDate xsi:nil="true" />
+          <StartTime>00:00:00.0000000+01:00</StartTime>
+          <EndTime>00:00:00.0000000+01:00</EndTime>
+          <Day>Wednesday</Day>
+        </OpeningHour>
+        <OpeningHour>
+          <Name>PBR-THURSDAY</Name>
+          <StartDate xsi:nil="true" />
+          <EndDate xsi:nil="true" />
+          <StartTime>00:00:00.0000000+01:00</StartTime>
+          <EndTime>00:00:00.0000000+01:00</EndTime>
+          <Day>Thursday</Day>
+        </OpeningHour>
+        <OpeningHour>
+          <Name>PBR-FRIDAY</Name>
+          <StartDate xsi:nil="true" />
+          <EndDate xsi:nil="true" />
+          <StartTime>00:00:00.0000000+01:00</StartTime>
+          <EndTime>00:00:00.0000000+01:00</EndTime>
+          <Day>Friday</Day>
+        </OpeningHour>
+        <OpeningHour>
+          <Name>PBR-SATURDAY</Name>
+          <StartDate xsi:nil="true" />
+          <EndDate xsi:nil="true" />
+          <StartTime>00:00:00.0000000+01:00</StartTime>
+          <EndTime>00:00:00.0000000+01:00</EndTime>
+          <Day>Saturday</Day>
+        </OpeningHour>
+        <OpeningHour>
+          <Name>PBR-SUNDAY</Name>
+          <StartDate xsi:nil="true" />
+          <EndDate xsi:nil="true" />
+          <StartTime>00:00:00.0000000+01:00</StartTime>
+          <EndTime>00:00:00.0000000+01:00</EndTime>
+          <Day>Sunday</Day>
+        </OpeningHour>
+        <Subscription>
+          <Name>Persoonsabonnement T1</Name>
+          <Fee>40</Fee>
+          <Currency>EUR</Currency>
+          <Description>Personal Subscription T1: Monday - Friday / 8am-8pm (Monthly subscription) - Persoonsabonnement T1: Maandag - Vrijdag / 8u-20u (Maandabonnement) - Abonnement Personnel T1: Lundi - Vendredi / 8h-20h (Abonnement Mensuel)</Description>
+        </Subscription>
+        <Subscription>
+          <Name>Persoonsabonnement T2</Name>
+          <Fee>50</Fee>
+          <Currency>EUR</Currency>
+          <Description>Personal Subscription T2: Monday - Sunday / 8am-8pm (Monthly subscription) - Persoonsabonnement T2: Maandag - Zondag / 8u-20u (Maandabonnement) - Abonnement Personnel T2: Lundi - Dimanche / 8h-20h (Abonnement Mensuel)</Description>
+        </Subscription>
+        <Subscription>
+          <Name>Persoonsabonnement T3</Name>
+          <Fee>60</Fee>
+          <Currency>EUR</Currency>
+          <Description>Personal Subscription T3: 7days on 7 / 24/24h (Monthly subscription) - Persoonsabonnement T3: 7 dagen op 7 / 24/24u (Maandabonnement) - Abonnement Personnel T3: Lundi - Dimanche / 8h-20h (Abonnement Mensuel)</Description>
+        </Subscription>
+        <Subscription>
+          <Name>Persoonsabonnement 2 dagen/week 24u-24u</Name>
+          <Fee>25</Fee>
+          <Currency>EUR</Currency>
+          <Description>Personal Subscription 2 days a week (24/24h) - Persoonsabonnement 2 dagen per week (24u-24u) - Abonnement Personnel 2 jours par semaine (24h-24h)</Description>
+        </Subscription>
+        <Subscription>
+          <Name>Persoonsabonnement 3 dagen/week 24u-24u</Name>
+          <Fee>30</Fee>
+          <Currency>EUR</Currency>
+          <Description>Personal Subscription 3 days a week (24/24h) - Persoonsabonnement 3 dagen per week (24u-24u) - Abonnement Personnel 3 jours par semaine (24h-24h)</Description>
+        </Subscription>
+        <Subscription>
+          <Name>Bewonersabonnement 1e vergunning</Name>
+          <Fee>20</Fee>
+          <Currency>EUR</Currency>
+          <Description>Residents Subscription 1e license (7/7d - 24/24h) (Monthly) - Bewonersabonnement 1e vergunning (7/7d - 24/24u) (per maand) - Abonnement Résidents 1e permis (24h-24h)</Description>
+        </Subscription>
+        <Subscription>
+          <Name>Bewonersabonnement 2e vergunning</Name>
+          <Fee>30</Fee>
+          <Currency>EUR</Currency>
+          <Description>Residents Subscription 2nd license (7/7d - 24/24h) (Monthly) - Bewonersabonnement 2e vergunning (7/7d - 24/24u) (per maand) - Abonnement Résidents 2e permis (24h-24h)</Description>
+        </Subscription>
+      </OffstreetParking>
+      <OffstreetParking>
+        <GeneralInfo>
+          <IDInfo>
+            <Name>P Schouwburg</Name>
+            <LogoURL>http://www.kortrijk.be/files/kortrijk/header/strip_Schouwburg.jpg</LogoURL>
+            <URL>http://www.kortrijk.be/adressen/p-schouwburg-0</URL>
+          </IDInfo>
+          <Contact>
+            <FirstName>Parko</FirstName>
+            <LastName>agb</LastName>
+            <Position>Exploitant</Position>
+            <Phone>+3256281212</Phone>
+            <Fax>+3256281213</Fax>
+            <Email>info@parko.be</Email>
+          </Contact>
+          <Address>
+            <StreetName>Schouwburgplein</StreetName>
+            <PostalCode>8500</PostalCode>
+            <Location>Kortrijk</Location>
+            <Country>Belgium</Country>
+          </Address>
+          <GeoLocation>
+            <Latitude>50.82612384626342</Latitude>
+            <Longitude>3.26671018966681</Longitude>
+          </GeoLocation>
+        </GeneralInfo>
+        <ParkingType>covered</ParkingType>
+        <ParkingType>parking zone</ParkingType>
+        <ParkingType>underground</ParkingType>
+        <Feature>lift</Feature>
+        <Feature>toilet</Feature>
+        <Feature>wheelchair accessible</Feature>
+        <PermittedVehicle>large car</PermittedVehicle>
+        <PermittedVehicle>light goods vehicles</PermittedVehicle>
+        <PermittedVehicle>small car</PermittedVehicle>
+        <UserType>all users</UserType>
+        <SecurityType>cctv</SecurityType>
+        <SecurityType>security staff</SecurityType>
+        <SupervisionType>control centre off site</SupervisionType>
+        <SupervisionType>patrol</SupervisionType>
+        <SupervisionType>remote</SupervisionType>
+        <PaymentMethod>cash</PaymentMethod>
+        <PaymentMethod>credit card</PaymentMethod>
+        <PaymentMethod>mobile phone</PaymentMethod>
+        <Capacity>395</Capacity>
+        <Reservations />
+        <SizeRestrictions>
+          <MaxWidth>0</MaxWidth>
+          <MaxHeight>0</MaxHeight>
+        </SizeRestrictions>
+        <Assessment>
+          <SecuritySelf>0</SecuritySelf>
+          <ServiceSelf>0</ServiceSelf>
+          <SecurityFormal>0</SecurityFormal>
+          <ServiceFormal>0</ServiceFormal>
+        </Assessment>
+        <Tariff>
+          <Name>PSB-10D</Name>
+          <Amount>0</Amount>
+          <Currency>EUR</Currency>
+          <Duration>0u</Duration>
+          <DurationLimit>=</DurationLimit>
+          <UserType>all users</UserType>
+          <UserType>visitors</UserType>
+          <VehicleType>all cars</VehicleType>
+          <FeeDescription>Daytime Tariff (8am-8pm) First Hour for Free - Dagtarief (8u-20u) Eerste Uur 0 - Taux journalier (8h-20h) Premier Heur Gratuit</FeeDescription>
+        </Tariff>
+        <Tariff>
+          <Name>PSB-12D</Name>
+          <Amount>1</Amount>
+          <Currency>EUR</Currency>
+          <Duration>1u</Duration>
+          <DurationLimit>=</DurationLimit>
+          <UserType>all users</UserType>
+          <UserType>visitors</UserType>
+          <VehicleType>all cars</VehicleType>
+          <FeeDescription>Daytime Tariff (8am-8pm) Max parktime 1h20 for 1 Euro - Dagtarief (8u-20u) Max 1u20 parkeren voor 1 Euro - Taux journalier (8h-20h) temps de stationnement max 1h20 pour 1 Euro</FeeDescription>
+        </Tariff>
+        <Tariff>
+          <Name>PSB-14D</Name>
+          <Amount>1.5</Amount>
+          <Currency>EUR</Currency>
+          <Duration>1u20</Duration>
+          <DurationLimit>=</DurationLimit>
+          <UserType>all users</UserType>
+          <UserType>visitors</UserType>
+          <VehicleType>all cars</VehicleType>
+          <FeeDescription>Daytime Tariff (8am-8pm) Max parktime 1h40 for 1,50 Euro - Dagtarief (8u-20u) Max 1u40 parkeren voor 1,50 Euro - Taux journalier (8h-20h) temps de stationnement max 1h40 pour 1,50 Euro</FeeDescription>
+        </Tariff>
+        <Tariff>
+          <Name>PSB-20D</Name>
+          <Amount>2</Amount>
+          <Currency>EUR</Currency>
+          <Duration>1u40</Duration>
+          <DurationLimit>=</DurationLimit>
+          <UserType>all users</UserType>
+          <UserType>visitors</UserType>
+          <VehicleType>all cars</VehicleType>
+          <FeeDescription>Daytime Tariff (8am-8pm) Max parktime 2h for 2 Euro - Dagtarief (8u-20u) Max 2u parkeren voor 2 Euro - Taux journalier (8h-20h) temps de stationnement max 2h pour 2 Euro</FeeDescription>
+        </Tariff>
+        <Tariff>
+          <Name>PSB-23D</Name>
+          <Amount>2.5</Amount>
+          <Currency>EUR</Currency>
+          <Duration>2u</Duration>
+          <DurationLimit>=</DurationLimit>
+          <UserType>all users</UserType>
+          <UserType>visitors</UserType>
+          <VehicleType>all cars</VehicleType>
+          <FeeDescription>Daytime Tariff (8am-8pm) Max parktime 2h30 for 2,50 Euro - Dagtarief (8u-20u) Max 2u30 parkeren voor 2,50 Euro - Taux journalier (8h-20h) temps de stationnement max 2h30 pour 2,50 Euro</FeeDescription>
+        </Tariff>
+        <Tariff>
+          <Name>PSB-30D</Name>
+          <Amount>3.5</Amount>
+          <Currency>EUR</Currency>
+          <Duration>2u30</Duration>
+          <DurationLimit>=</DurationLimit>
+          <UserType>all users</UserType>
+          <UserType>visitors</UserType>
+          <VehicleType>all cars</VehicleType>
+          <FeeDescription>Daytime Tariff (8am-8pm) Max parktime 3h for 3,50 Euro - Dagtarief (8u-20u) Max 3u parkeren voor 3,50 Euro - Taux journalier (8h-20h) temps de stationnement max 3h pour 3,50 Euro</FeeDescription>
+        </Tariff>
+        <Tariff>
+          <Name>PSB+33D</Name>
+          <Amount>5</Amount>
+          <Currency>EUR</Currency>
+          <Duration>3u30</Duration>
+          <DurationLimit>=</DurationLimit>
+          <UserType>all users</UserType>
+          <UserType>visitors</UserType>
+          <VehicleType>all cars</VehicleType>
+          <FeeDescription>Daytime Tariff (8am-8pm) parktime over 3h30 for 5 Euro with a max of 12 hours - Dagtarief (8u-20u) Meer dan 3u30 parkeren voor 5 Euro met een maximum van 12 uren - Taux journalier (8h-20h) temps de stationnement plus de 3h30 pour 5 Euro avec un maximum de 12 heurs</FeeDescription>
+        </Tariff>
+        <Tariff>
+          <Name>PSB-10N</Name>
+          <Amount>0</Amount>
+          <Currency>EUR</Currency>
+          <Duration>0u</Duration>
+          <DurationLimit>=</DurationLimit>
+          <UserType>all users</UserType>
+          <UserType>visitors</UserType>
+          <VehicleType>all cars</VehicleType>
+          <FeeDescription>Nighttime Tariff (8pm-8am) First Hour For Free - Nachttarief (20u-8u) Eerste Uur 0 - Tarif de nuit (20h-8h) Premier Heur Gratuit</FeeDescription>
+        </Tariff>
+        <Tariff>
+          <Name>PSB-12N</Name>
+          <Amount>0.5</Amount>
+          <Currency>EUR</Currency>
+          <Duration>1u</Duration>
+          <DurationLimit>=</DurationLimit>
+          <UserType>all users</UserType>
+          <UserType>visitors</UserType>
+          <VehicleType>all cars</VehicleType>
+          <FeeDescription>Nighttime Tariff (8pm-8am) Max parktime 1h20 for 0,50 Euro - Nachttarief (20u-8u) Max 1u20 parkeren voor 0,50 Euro - Tarif de nuit (20h-8h) temps de stationnement max 1h20 pour 0,50 Euro</FeeDescription>
+        </Tariff>
+        <Tariff>
+          <Name>PSB-14N</Name>
+          <Amount>0.5</Amount>
+          <Currency>EUR</Currency>
+          <Duration>1u20</Duration>
+          <DurationLimit>=</DurationLimit>
+          <UserType>all users</UserType>
+          <UserType>visitors</UserType>
+          <VehicleType>all cars</VehicleType>
+          <FeeDescription>Nighttime Tariff (8pm-8am) Max parktime 1h40 for 0,50 Euro - Nachttarief (20u-8u) Max 1u40 parkeren voor 0,50 Euro - Tarif de nuit (20h-8h) temps de stationnement max 1h40 pour 0,50 Euro</FeeDescription>
+        </Tariff>
+        <Tariff>
+          <Name>PSB-20N</Name>
+          <Amount>1</Amount>
+          <Currency>EUR</Currency>
+          <Duration>1u40</Duration>
+          <DurationLimit>=</DurationLimit>
+          <UserType>all users</UserType>
+          <UserType>visitors</UserType>
+          <VehicleType>all cars</VehicleType>
+          <FeeDescription>Nighttime Tariff (8pm-8am) Max parktime 2h for 1 Euro - Nachttarief (20u-8u) Max 2u parkeren voor 1 Euro - Tarif de nuit (20h-8h) temps de stationnement max 2h pour 1 Euro</FeeDescription>
+        </Tariff>
+        <Tariff>
+          <Name>PSB-23N</Name>
+          <Amount>1.5</Amount>
+          <Currency>EUR</Currency>
+          <Duration>2u</Duration>
+          <DurationLimit>=</DurationLimit>
+          <UserType>all users</UserType>
+          <UserType>visitors</UserType>
+          <VehicleType>all cars</VehicleType>
+          <FeeDescription>Nighttime Tariff (8pm-8am) Max parktime 2h30 for 1,50 Euro - Nachttarief (20u-8u) Max 2u30 parkeren voor 1,50 Euro - Tarif de nuit (20h-8h) temps de stationnement max 2h30 pour 1,50 Euro</FeeDescription>
+        </Tariff>
+        <Tariff>
+          <Name>PSB-30N</Name>
+          <Amount>1.5</Amount>
+          <Currency>EUR</Currency>
+          <Duration>2u30</Duration>
+          <DurationLimit>=</DurationLimit>
+          <UserType>all users</UserType>
+          <UserType>visitors</UserType>
+          <VehicleType>all cars</VehicleType>
+          <FeeDescription>Nighttime Tariff (8pm-8am) Max parktime 3h for 1,50 Euro - Nachttarief (20u-8u) Max 3u parkeren voor 1,50 Euro - Tarif de nuit (20h-8h) temps de stationnement max 3h pour 1,50 Euro</FeeDescription>
+        </Tariff>
+        <Tariff>
+          <Name>PSB-33N</Name>
+          <Amount>2</Amount>
+          <Currency>EUR</Currency>
+          <Duration>3u</Duration>
+          <DurationLimit>=</DurationLimit>
+          <UserType>all users</UserType>
+          <UserType>visitors</UserType>
+          <VehicleType>all cars</VehicleType>
+          <FeeDescription>Nighttime Tariff (8pm-8am) Max parktime 3h30 for 2 Euro - Nachttarief (20u-8u) Max 3u30 parkeren voor 2 Euro - Tarif de nuit (20h-8h) temps de stationnement max 3h30 pour 2 Euro</FeeDescription>
+        </Tariff>
+        <Tariff>
+          <Name>PSB+33N</Name>
+          <Amount>2.5</Amount>
+          <Currency>EUR</Currency>
+          <Duration>3u30</Duration>
+          <DurationLimit>=</DurationLimit>
+          <UserType>all users</UserType>
+          <UserType>visitors</UserType>
+          <VehicleType>all cars</VehicleType>
+          <FeeDescription>Nighttime Tariff (8pm-8am) parktime over 3h30 for 2,50 Euro with a maximum of 12 hours - Nachttarief (20u-8u) Meer dan 3u30 parkeren voor 2,50 Euro met een maximum van 12 uren - Tarif de nuit (8h-20h) temps de stationnement plus de 3h30 pour 2,50 Euro</FeeDescription>
+        </Tariff>
+        <OpeningHour>
+          <Name>PSB-MONDAY</Name>
+          <StartDate xsi:nil="true" />
+          <EndDate xsi:nil="true" />
+          <StartTime>07:00:00.0000000+01:00</StartTime>
+          <EndTime>01:00:00.0000000+01:00</EndTime>
+          <Day>Monday</Day>
+        </OpeningHour>
+        <OpeningHour>
+          <Name>PSB-TUESDAY</Name>
+          <StartDate xsi:nil="true" />
+          <EndDate xsi:nil="true" />
+          <StartTime>07:00:00.0000000+01:00</StartTime>
+          <EndTime>01:00:00.0000000+01:00</EndTime>
+          <Day>Tuesday</Day>
+        </OpeningHour>
+        <OpeningHour>
+          <Name>PSB-WEDNESDAY</Name>
+          <StartDate xsi:nil="true" />
+          <EndDate xsi:nil="true" />
+          <StartTime>07:00:00.0000000+01:00</StartTime>
+          <EndTime>01:00:00.0000000+01:00</EndTime>
+          <Day>Wednesday</Day>
+        </OpeningHour>
+        <OpeningHour>
+          <Name>PSB-THURSDAY</Name>
+          <StartDate xsi:nil="true" />
+          <EndDate xsi:nil="true" />
+          <StartTime>07:00:00.0000000+01:00</StartTime>
+          <EndTime>01:00:00.0000000+01:00</EndTime>
+          <Day>Thursday</Day>
+        </OpeningHour>
+        <OpeningHour>
+          <Name>PSB-FRIDAY</Name>
+          <StartDate xsi:nil="true" />
+          <EndDate xsi:nil="true" />
+          <StartTime>07:00:00.0000000+01:00</StartTime>
+          <EndTime>02:00:00.0000000+01:00</EndTime>
+          <Day>Friday</Day>
+        </OpeningHour>
+        <OpeningHour>
+          <Name>PSB-SATURDAY</Name>
+          <StartDate xsi:nil="true" />
+          <EndDate xsi:nil="true" />
+          <StartTime>07:00:00.0000000+01:00</StartTime>
+          <EndTime>02:00:00.0000000+01:00</EndTime>
+          <Day>Saturday</Day>
+        </OpeningHour>
+        <OpeningHour>
+          <Name>PSB-SUNDAY</Name>
+          <StartDate xsi:nil="true" />
+          <EndDate xsi:nil="true" />
+          <StartTime>11:00:00.0000000+01:00</StartTime>
+          <EndTime>01:00:00.0000000+01:00</EndTime>
+          <Day>Sunday</Day>
+        </OpeningHour>
+        <Subscription>
+          <Name>Persoonsabonnement T1</Name>
+          <Fee>75</Fee>
+          <Currency>EUR</Currency>
+          <Description>Personal Subscription T1: Monday - Friday / 8am-8pm (Monthly subscription) - Persoonsabonnement T1: Maandag - Vrijdag / 8u-20u (Maandabonnement) - Abonnement Personnel T1: Lundi - Vendredi / 8h-20h (Abonnement Mensuel)</Description>
+        </Subscription>
+        <Subscription>
+          <Name>Persoonsabonnement T2</Name>
+          <Fee>85</Fee>
+          <Currency>EUR</Currency>
+          <Description>Personal Subscription T2: Monday - Sunday / 8am-8pm (Monthly subscription) - Persoonsabonnement T2: Maandag - Zondag / 8u-20u (Maandabonnement) - Abonnement Personnel T2: Lundi - Dimanche / 8h-20h (Abonnement Mensuel)</Description>
+        </Subscription>
+        <Subscription>
+          <Name>Persoonsabonnement T3</Name>
+          <Fee>95</Fee>
+          <Currency>EUR</Currency>
+          <Description>Personal Subscription T3: 7days on 7 / 24/24h (Monthly subscription) - Persoonsabonnement T3: 7 dagen op 7 / 24/24u (Maandabonnement) - Abonnement Personnel T3: Lundi - Dimanche / 8h-20h (Abonnement Mensuel)</Description>
+        </Subscription>
+        <Subscription>
+          <Name>Persoonsabonnement 2 dagen/week 8u-20u</Name>
+          <Fee>30</Fee>
+          <Currency>EUR</Currency>
+          <Description>Personal Subscription 2 days a week (8am-8pm) - Persoonsabonnement 2 dagen per week (8u-20u) - Abonnement Personnel 2 jours par semaine (8h-20h)</Description>
+        </Subscription>
+        <Subscription>
+          <Name>Persoonsabonnement 3 dagen/week 8u-20u</Name>
+          <Fee>45</Fee>
+          <Currency>EUR</Currency>
+          <Description>Personal Subscription 3 days a week (8am-8pm) - Persoonsabonnement 3 dagen per week (8u-20u) - Abonnement Personnel 3 jours par semaine (8h-20h)</Description>
+        </Subscription>
+        <Subscription>
+          <Name>Persoonsabonnement 2 dagen/week 24u-24u</Name>
+          <Fee>35</Fee>
+          <Currency>EUR</Currency>
+          <Description>Personal Subscription 2 days a week (24/24h) - Persoonsabonnement 2 dagen per week (24u-24u) - Abonnement Personnel 2 jours par semaine (24h-24h)</Description>
+        </Subscription>
+        <Subscription>
+          <Name>Persoonsabonnement 3 dagen/week 24u-24u</Name>
+          <Fee>50</Fee>
+          <Currency>EUR</Currency>
+          <Description>Personal Subscription 3 days a week (24/24h) - Persoonsabonnement 3 dagen per week (24u-24u) - Abonnement Personnel 3 jours par semaine (24h-24h)</Description>
+        </Subscription>
+        <Subscription>
+          <Name>Bewonersabonnement 1e vergunning</Name>
+          <Fee>30</Fee>
+          <Currency>EUR</Currency>
+          <Description>Residents Subscription 1e license (7/7d - 24/24h) (Monthly) - Bewonersabonnement 1e vergunning (7/7d - 24/24u) (per maand) - Abonnement Résidents 1e permis (24h-24h)</Description>
+        </Subscription>
+        <Subscription>
+          <Name>Bewonersabonnement 2e vergunning</Name>
+          <Fee>45</Fee>
+          <Currency>EUR</Currency>
+          <Description>Residents Subscription 2nd license (7/7d - 24/24h) (Monthly) - Bewonersabonnement 2e vergunning (7/7d - 24/24u) (per maand) - Abonnement Résidents 2e permis (24h-24h)</Description>
+        </Subscription>
+      </OffstreetParking>
+      <OffstreetParking>
+        <GeneralInfo>
+          <IDInfo>
+            <Name>P Veemarkt</Name>
+            <LogoURL>http://www.kortrijk.be/files/kortrijk/header/strip_Veemarkt.jpg</LogoURL>
+            <URL>http://www.kortrijk.be/adressen/p-veemarkt-0</URL>
+          </IDInfo>
+          <Contact>
+            <FirstName>Parko</FirstName>
+            <LastName>agb</LastName>
+            <Position>Exploitant</Position>
+            <Phone>+3256281212</Phone>
+            <Fax>+3256281213</Fax>
+            <Email>info@parko.be</Email>
+          </Contact>
+          <Address>
+            <StreetName>Veemarkt</StreetName>
+            <PostalCode>8500</PostalCode>
+            <Location>Kortrijk</Location>
+            <Country>Belgium</Country>
+          </Address>
+          <GeoLocation>
+            <Latitude>50.826577912917884</Latitude>
+            <Longitude>3.275379089202943</Longitude>
+          </GeoLocation>
+        </GeneralInfo>
+        <ParkingType>covered</ParkingType>
+        <ParkingType>parking zone</ParkingType>
+        <ParkingType>underground</ParkingType>
+        <Feature>lift</Feature>
+        <Feature>wheelchair accessible</Feature>
+        <PermittedVehicle>large car</PermittedVehicle>
+        <PermittedVehicle>light goods vehicles</PermittedVehicle>
+        <PermittedVehicle>small car</PermittedVehicle>
+        <UserType>all users</UserType>
+        <SecurityType>cctv</SecurityType>
+        <SecurityType>security staff</SecurityType>
+        <SupervisionType>control centre off site</SupervisionType>
+        <SupervisionType>patrol</SupervisionType>
+        <SupervisionType>remote</SupervisionType>
+        <PaymentMethod>cash</PaymentMethod>
+        <PaymentMethod>credit card</PaymentMethod>
+        <Capacity>575</Capacity>
+        <Reservations />
+        <SizeRestrictions>
+          <MaxWidth>0</MaxWidth>
+          <MaxHeight>0</MaxHeight>
+        </SizeRestrictions>
+        <Assessment>
+          <SecuritySelf>0</SecuritySelf>
+          <ServiceSelf>0</ServiceSelf>
+          <SecurityFormal>0</SecurityFormal>
+          <ServiceFormal>0</ServiceFormal>
+        </Assessment>
+        <Tariff>
+          <Name>PVM-10D</Name>
+          <Amount>0</Amount>
+          <Currency>EUR</Currency>
+          <Duration>0u</Duration>
+          <DurationLimit>=</DurationLimit>
+          <UserType>all users</UserType>
+          <UserType>visitors</UserType>
+          <VehicleType>all cars</VehicleType>
+          <FeeDescription>Daytime Tariff (8am-8pm) First Hour for Free - Dagtarief (8u-20u) Eerste Uur Gratis - Taux journalier (8h-20h) Premier Heur Gratuit</FeeDescription>
+        </Tariff>
+        <Tariff>
+          <Name>PVM-12D</Name>
+          <Amount>1</Amount>
+          <Currency>EUR</Currency>
+          <Duration>1u</Duration>
+          <DurationLimit>=</DurationLimit>
+          <UserType>all users</UserType>
+          <UserType>visitors</UserType>
+          <VehicleType>all cars</VehicleType>
+          <FeeDescription>Daytime Tariff (8am-8pm) Max parktime 1h20 for 1 Euro - Dagtarief (8u-20u) Max 1u20 parkeren voor 1 Euro - Taux journalier (8h-20h) temps de stationnement max 1h20 pour 1 Euro</FeeDescription>
+        </Tariff>
+        <Tariff>
+          <Name>PVM-14D</Name>
+          <Amount>1.5</Amount>
+          <Currency>EUR</Currency>
+          <Duration>1u20</Duration>
+          <DurationLimit>=</DurationLimit>
+          <UserType>all users</UserType>
+          <UserType>visitors</UserType>
+          <VehicleType>all cars</VehicleType>
+          <FeeDescription>Daytime Tariff (8am-8pm) Max parktime 1h40 for 1,50 Euro - Dagtarief (8u-20u) Max 1u40 parkeren voor 1,50 Euro - Taux journalier (8h-20h) temps de stationnement max 1h40 pour 1,50 Euro</FeeDescription>
+        </Tariff>
+        <Tariff>
+          <Name>PVM-20D</Name>
+          <Amount>2</Amount>
+          <Currency>EUR</Currency>
+          <Duration>1u40</Duration>
+          <DurationLimit>=</DurationLimit>
+          <UserType>all users</UserType>
+          <UserType>visitors</UserType>
+          <VehicleType>all cars</VehicleType>
+          <FeeDescription>Daytime Tariff (8am-8pm) Max parktime 2h for 2 Euro - Dagtarief (8u-20u) Max 2u parkeren voor 2 Euro - Taux journalier (8h-20h) temps de stationnement max 2h pour 2 Euro</FeeDescription>
+        </Tariff>
+        <Tariff>
+          <Name>PVM-23D</Name>
+          <Amount>2.5</Amount>
+          <Currency>EUR</Currency>
+          <Duration>2u</Duration>
+          <DurationLimit>=</DurationLimit>
+          <UserType>all users</UserType>
+          <UserType>visitors</UserType>
+          <VehicleType>all cars</VehicleType>
+          <FeeDescription>Daytime Tariff (8am-8pm) Max parktime 2h30 for 2,50 Euro - Dagtarief (8u-20u) Max 2u30 parkeren voor 2,50 Euro - Taux journalier (8h-20h) temps de stationnement max 2h30 pour 2,50 Euro</FeeDescription>
+        </Tariff>
+        <Tariff>
+          <Name>PVM-30D</Name>
+          <Amount>3.5</Amount>
+          <Currency>EUR</Currency>
+          <Duration>2u30</Duration>
+          <DurationLimit>=</DurationLimit>
+          <UserType>all users</UserType>
+          <UserType>visitors</UserType>
+          <VehicleType>all cars</VehicleType>
+          <FeeDescription>Daytime Tariff (8am-8pm) Max parktime 3h for 3,50 Euro - Dagtarief (8u-20u) Max 3u parkeren voor 3,50 Euro - Taux journalier (8h-20h) temps de stationnement max 3h pour 3,50 Euro</FeeDescription>
+        </Tariff>
+        <Tariff>
+          <Name>PVM-33D</Name>
+          <Amount>4.5</Amount>
+          <Currency>EUR</Currency>
+          <Duration>3u</Duration>
+          <DurationLimit>=</DurationLimit>
+          <UserType>all users</UserType>
+          <UserType>visitors</UserType>
+          <VehicleType>all cars</VehicleType>
+          <FeeDescription>Daytime Tariff (8am-8pm) Max parktime 3h30 for 4,50 Euro - Dagtarief (8u-20u) Max 3u30 parkeren voor 4,50 Euro - Taux journalier (8h-20h) temps de stationnement max 3h30 pour 4,50 Euro</FeeDescription>
+        </Tariff>
+        <Tariff>
+          <Name>PVM+33D</Name>
+          <Amount>5</Amount>
+          <Currency>EUR</Currency>
+          <Duration>3u30</Duration>
+          <DurationLimit>=</DurationLimit>
+          <UserType>all users</UserType>
+          <UserType>visitors</UserType>
+          <VehicleType>all cars</VehicleType>
+          <FeeDescription>Daytime Tariff (8am-8pm) parktime over 3h30 for 5 Euro with a maximum of 12 hours - Dagtarief (8u-20u) Meer dan 3u30 parkeren voor 5 Euro - Taux journalier (8h-20h) temps de stationnement plus de 3h30 pour 5 Euro</FeeDescription>
+        </Tariff>
+        <Tariff>
+          <Name>PVM-10N</Name>
+          <Amount>0</Amount>
+          <Currency>EUR</Currency>
+          <Duration>0u</Duration>
+          <DurationLimit>=</DurationLimit>
+          <UserType>all users</UserType>
+          <UserType>visitors</UserType>
+          <VehicleType>all cars</VehicleType>
+          <FeeDescription>Nighttime Tariff (8pm-8am) First Hour For Free - Nachttarief (20u-8u) Eerste Uur 0 - Tarif de nuit (20h-8h) Premier Heur Gratuit</FeeDescription>
+        </Tariff>
+        <Tariff>
+          <Name>PVM-12N</Name>
+          <Amount>0.5</Amount>
+          <Currency>EUR</Currency>
+          <Duration>1u</Duration>
+          <DurationLimit>=</DurationLimit>
+          <UserType>all users</UserType>
+          <UserType>visitors</UserType>
+          <VehicleType>all cars</VehicleType>
+          <FeeDescription>Nighttime Tariff (8pm-8am) Max parktime 1h20 for 0,50 Euro - Nachttarief (20u-8u) Max 1u20 parkeren voor 0,50 Euro - Tarif de nuit (20h-8h) temps de stationnement max 1h20 pour 0,50 Euro</FeeDescription>
+        </Tariff>
+        <Tariff>
+          <Name>PVM-14N</Name>
+          <Amount>0.5</Amount>
+          <Currency>EUR</Currency>
+          <Duration>1u20</Duration>
+          <DurationLimit>=</DurationLimit>
+          <UserType>all users</UserType>
+          <UserType>visitors</UserType>
+          <VehicleType>all cars</VehicleType>
+          <FeeDescription>Nighttime Tariff (8pm-8am) Max parktime 1h40 for 0,50 Euro - Nachttarief (20u-8u) Max 1u40 parkeren voor 0,50 Euro - Tarif de nuit (20h-8h) temps de stationnement max 1h40 pour 0,50 Euro</FeeDescription>
+        </Tariff>
+        <Tariff>
+          <Name>PVM-20N</Name>
+          <Amount>1</Amount>
+          <Currency>EUR</Currency>
+          <Duration>1u40</Duration>
+          <DurationLimit>=</DurationLimit>
+          <UserType>all users</UserType>
+          <UserType>visitors</UserType>
+          <VehicleType>all cars</VehicleType>
+          <FeeDescription>Nighttime Tariff (8pm-8am) Max parktime 2h for 1 Euro - Nachttarief (20u-8u) Max 2u parkeren voor 1 Euro - Tarif de nuit (20h-8h) temps de stationnement max 2h pour 1 Euro</FeeDescription>
+        </Tariff>
+        <Tariff>
+          <Name>PVM-23N</Name>
+          <Amount>1.5</Amount>
+          <Currency>EUR</Currency>
+          <Duration>2u</Duration>
+          <DurationLimit>=</DurationLimit>
+          <UserType>all users</UserType>
+          <UserType>visitors</UserType>
+          <VehicleType>all cars</VehicleType>
+          <FeeDescription>Nighttime Tariff (8pm-8am) Max parktime 2h30 for 1,50 Euro - Nachttarief (20u-8u) Max 2u30 parkeren voor 1,50 Euro - Tarif de nuit (20h-8h) temps de stationnement max 2h30 pour 1,50 Euro</FeeDescription>
+        </Tariff>
+        <Tariff>
+          <Name>PVM-30N</Name>
+          <Amount>1.5</Amount>
+          <Currency>EUR</Currency>
+          <Duration>2u30</Duration>
+          <DurationLimit>=</DurationLimit>
+          <UserType>all users</UserType>
+          <UserType>visitors</UserType>
+          <VehicleType>all cars</VehicleType>
+          <FeeDescription>Nighttime Tariff (8pm-8am) Max parktime 3h for 1,50 Euro - Nachttarief (20u-8u) Max 3u parkeren voor 1,50 Euro - Tarif de nuit (20h-8h) temps de stationnement max 3h pour 1,50 Euro</FeeDescription>
+        </Tariff>
+        <Tariff>
+          <Name>PVM-33N</Name>
+          <Amount>2</Amount>
+          <Currency>EUR</Currency>
+          <Duration>3u</Duration>
+          <DurationLimit>=</DurationLimit>
+          <UserType>all users</UserType>
+          <UserType>visitors</UserType>
+          <VehicleType>all cars</VehicleType>
+          <FeeDescription>Nighttime Tariff (8pm-8am) Max parktime 3h30 for 2 Euro - Nachttarief (20u-8u) Max 3u30 parkeren voor 2 Euro - Tarif de nuit (20h-8h) temps de stationnement max 3h30 pour 2 Euro</FeeDescription>
+        </Tariff>
+        <Tariff>
+          <Name>PVM+33N</Name>
+          <Amount>2.5</Amount>
+          <Currency>EUR</Currency>
+          <Duration>3u30</Duration>
+          <DurationLimit>=</DurationLimit>
+          <UserType>all users</UserType>
+          <UserType>visitors</UserType>
+          <VehicleType>all cars</VehicleType>
+          <FeeDescription>Nighttime Tariff (8pm-8am) parktime over 3h30 for 2,50 Euro with a maximum of 12 hours - Nachttarief (20u-8u) Meer dan 3u30 parkeren voor 2,50 Euro met een maximum van 12 uren - Tarif de nuit (8h-20h) temps de stationnement plus de 3h30 pour 2,50 Euro</FeeDescription>
+        </Tariff>
+        <OpeningHour>
+          <Name>PVM-MONDAY</Name>
+          <StartDate xsi:nil="true" />
+          <EndDate xsi:nil="true" />
+          <StartTime>07:00:00.0000000+01:00</StartTime>
+          <EndTime>01:00:00.0000000+01:00</EndTime>
+          <Day>Monday</Day>
+        </OpeningHour>
+        <OpeningHour>
+          <Name>PVM-TUESDAY</Name>
+          <StartDate xsi:nil="true" />
+          <EndDate xsi:nil="true" />
+          <StartTime>07:00:00.0000000+01:00</StartTime>
+          <EndTime>01:00:00.0000000+01:00</EndTime>
+          <Day>unknown</Day>
+        </OpeningHour>
+        <OpeningHour>
+          <Name>PVM-WEDNESDAY</Name>
+          <StartDate xsi:nil="true" />
+          <EndDate xsi:nil="true" />
+          <StartTime>07:00:00.0000000+01:00</StartTime>
+          <EndTime>01:00:00.0000000+01:00</EndTime>
+          <Day>Wednesday</Day>
+        </OpeningHour>
+        <OpeningHour>
+          <Name>PVM-THURSDAY</Name>
+          <StartDate xsi:nil="true" />
+          <EndDate xsi:nil="true" />
+          <StartTime>07:00:00.0000000+01:00</StartTime>
+          <EndTime>01:00:00.0000000+01:00</EndTime>
+          <Day>Thursday</Day>
+        </OpeningHour>
+        <OpeningHour>
+          <Name>PVM-FRIDAY</Name>
+          <StartDate xsi:nil="true" />
+          <EndDate xsi:nil="true" />
+          <StartTime>07:00:00.0000000+01:00</StartTime>
+          <EndTime>02:00:00.0000000+01:00</EndTime>
+          <Day>Friday</Day>
+        </OpeningHour>
+        <OpeningHour>
+          <Name>PVM-SATURDAY</Name>
+          <StartDate xsi:nil="true" />
+          <EndDate xsi:nil="true" />
+          <StartTime>07:00:00.0000000+01:00</StartTime>
+          <EndTime>00:00:00.0000000+01:00</EndTime>
+          <Day>Saturday</Day>
+        </OpeningHour>
+        <OpeningHour>
+          <Name>PVM-SUNDAY</Name>
+          <StartDate xsi:nil="true" />
+          <EndDate xsi:nil="true" />
+          <StartTime>11:00:00.0000000+01:00</StartTime>
+          <EndTime>01:00:00.0000000+01:00</EndTime>
+          <Day>Sunday</Day>
+        </OpeningHour>
+        <Subscription>
+          <Name>Persoonsabonnement T1</Name>
+          <Fee>75</Fee>
+          <Currency>EUR</Currency>
+          <Description>Personal Subscription T1: Monday - Friday / 8am-8pm (Monthly subscription) - Persoonsabonnement T1: Maandag - Vrijdag / 8u-20u (Maandabonnement) - Abonnement Personnel T1: Lundi - Vendredi / 8h-20h (Abonnement Mensuel)</Description>
+        </Subscription>
+        <Subscription>
+          <Name>Persoonsabonnement T2</Name>
+          <Fee>85</Fee>
+          <Currency>EUR</Currency>
+          <Description>Personal Subscription T2: Monday - Sunday / 8am-8pm (Monthly subscription) - Persoonsabonnement T2: Maandag - Zondag / 8u-20u (Maandabonnement) - Abonnement Personnel T2: Lundi - Dimanche / 8h-20h (Abonnement Mensuel)</Description>
+        </Subscription>
+        <Subscription>
+          <Name>Persoonsabonnement T3</Name>
+          <Fee>95</Fee>
+          <Currency>EUR</Currency>
+          <Description>Personal Subscription T3: 7days on 7 / 24/24h (Monthly subscription) - Persoonsabonnement T3: 7 dagen op 7 / 24/24u (Maandabonnement) - Abonnement Personnel T3: Lundi - Dimanche / 8h-20h (Abonnement Mensuel)</Description>
+        </Subscription>
+        <Subscription>
+          <Name>Persoonsabonnement 2 dagen/week 8u-20u</Name>
+          <Fee>30</Fee>
+          <Currency>EUR</Currency>
+          <Description>Personal Subscription 2 days a week (8am-8pm) - Persoonsabonnement 2 dagen per week (8u-20u) - Abonnement Personnel 2 jours par semaine (8h-20h)</Description>
+        </Subscription>
+        <Subscription>
+          <Name>Persoonsabonnement 3 dagen/week 8u-20u</Name>
+          <Fee>45</Fee>
+          <Currency>EUR</Currency>
+          <Description>Personal Subscription 3 days a week (8am-8pm) - Persoonsabonnement 3 dagen per week (8u-20u) - Abonnement Personnel 3 jours par semaine (8h-20h)</Description>
+        </Subscription>
+        <Subscription>
+          <Name>Persoonsabonnement 2 dagen/week 24u-24u</Name>
+          <Fee>35</Fee>
+          <Currency>EUR</Currency>
+          <Description>Personal Subscription 2 days a week (24/24h) - Persoonsabonnement 2 dagen per week (24u-24u) - Abonnement Personnel 2 jours par semaine (24h-24h)</Description>
+        </Subscription>
+        <Subscription>
+          <Name>Persoonsabonnement 3 dagen/week 24u-24u</Name>
+          <Fee>50</Fee>
+          <Currency>EUR</Currency>
+          <Description>Personal Subscription 3 days a week (24/24h) - Persoonsabonnement 3 dagen per week (24u-24u) - Abonnement Personnel 3 jours par semaine (24h-24h)</Description>
+        </Subscription>
+        <Subscription>
+          <Name>Bewonersabonnement 1e vergunning</Name>
+          <Fee>30</Fee>
+          <Currency>EUR</Currency>
+          <Description>Residents Subscription 1e license (7/7d - 24/24h) (Monthly) - Bewonersabonnement 1e vergunning (7/7d - 24/24u) (per maand) - Abonnement Résidents 1e permis (24h-24h)</Description>
+        </Subscription>
+        <Subscription>
+          <Name>Bewonersabonnement 2e vergunning</Name>
+          <Fee>45</Fee>
+          <Currency>EUR</Currency>
+          <Description>Residents Subscription 2nd license (7/7d - 24/24h) (Monthly) - Bewonersabonnement 2e vergunning (7/7d - 24/24u) (per maand) - Abonnement Résidents 2e permis (24h-24h)</Description>
+        </Subscription>
+      </OffstreetParking>
+      <OffstreetParking>
+        <GeneralInfo>
+          <IDInfo>
+            <Name>P Appel</Name>
+            <LogoURL>http://www.kortrijk.be/files/kortrijk/header/strip_Appel.jpg</LogoURL>
+            <URL>http://www.kortrijk.be/adressen/p-appel</URL>
+          </IDInfo>
+          <Contact>
+            <FirstName>Parko</FirstName>
+            <LastName>agb</LastName>
+            <Position>Exploitant</Position>
+            <Phone>+3256281212</Phone>
+            <Fax>+3256281213</Fax>
+            <Email>info@parko.be</Email>
+          </Contact>
+          <Address>
+            <StreetName>Magdalenastraat</StreetName>
+            <PostalCode>8500</PostalCode>
+            <Location>Kortrijk</Location>
+            <Country>Belgium</Country>
+          </Address>
+          <GeoLocation>
+            <Latitude>50.824864974199286</Latitude>
+            <Longitude>3.256311265316072</Longitude>
+          </GeoLocation>
+        </GeneralInfo>
+        <Capacity>308</Capacity>
+        <Reservations />
+        <SizeRestrictions>
+          <MaxWidth>0</MaxWidth>
+          <MaxHeight>0</MaxHeight>
+        </SizeRestrictions>
+        <Assessment>
+          <SecuritySelf>0</SecuritySelf>
+          <ServiceSelf>0</ServiceSelf>
+          <SecurityFormal>0</SecurityFormal>
+          <ServiceFormal>0</ServiceFormal>
+        </Assessment>
+        <Tariff>
+          <Name>PAP-GRATIS</Name>
+          <Amount>0</Amount>
+          <Currency>EUR</Currency>
+          <Duration>0u</Duration>
+          <DurationLimit>=</DurationLimit>
+          <UserType>all users</UserType>
+          <UserType>visitors</UserType>
+          <VehicleType>all cars</VehicleType>
+          <FeeDescription>Daytime Tariff (24/24h) A whole day for Free - Dagtarief (24/24u) Een hele dag gratis parkeren - Taux jounalier Gratuit pour le jour (24/24h)</FeeDescription>
+        </Tariff>
+        <OpeningHour>
+          <Name>PAP-MONDAY</Name>
+          <StartDate xsi:nil="true" />
+          <EndDate xsi:nil="true" />
+          <StartTime>00:00:00.0000000+01:00</StartTime>
+          <EndTime>00:00:00.0000000+01:00</EndTime>
+          <Day>Monday</Day>
+        </OpeningHour>
+        <OpeningHour>
+          <Name>PAP-TUESDAY</Name>
+          <StartDate xsi:nil="true" />
+          <EndDate xsi:nil="true" />
+          <StartTime>00:00:00.0000000+01:00</StartTime>
+          <EndTime>00:00:00.0000000+01:00</EndTime>
+          <Day>Tuesday</Day>
+        </OpeningHour>
+        <OpeningHour>
+          <Name>PAP-WEDNESDAY</Name>
+          <StartDate xsi:nil="true" />
+          <EndDate xsi:nil="true" />
+          <StartTime>00:00:00.0000000+01:00</StartTime>
+          <EndTime>00:00:00.0000000+01:00</EndTime>
+          <Day>Wednesday</Day>
+        </OpeningHour>
+        <OpeningHour>
+          <Name>PAP-THURSDAY</Name>
+          <StartDate xsi:nil="true" />
+          <EndDate xsi:nil="true" />
+          <StartTime>00:00:00.0000000+01:00</StartTime>
+          <EndTime>00:00:00.0000000+01:00</EndTime>
+          <Day>Thursday</Day>
+        </OpeningHour>
+        <OpeningHour>
+          <Name>PAP-FRIDAY</Name>
+          <StartDate xsi:nil="true" />
+          <EndDate xsi:nil="true" />
+          <StartTime>00:00:00.0000000+01:00</StartTime>
+          <EndTime>00:00:00.0000000+01:00</EndTime>
+          <Day>Friday</Day>
+        </OpeningHour>
+        <OpeningHour>
+          <Name>PAP-SATURDAY</Name>
+          <StartDate xsi:nil="true" />
+          <EndDate xsi:nil="true" />
+          <StartTime>00:00:00.0000000+01:00</StartTime>
+          <EndTime>00:00:00.0000000+01:00</EndTime>
+          <Day>Saturday</Day>
+        </OpeningHour>
+        <OpeningHour>
+          <Name>PAP-SUNDAY</Name>
+          <StartDate xsi:nil="true" />
+          <EndDate xsi:nil="true" />
+          <StartTime>00:00:00.0000000+01:00</StartTime>
+          <EndTime>00:00:00.0000000+01:00</EndTime>
+          <Day>Sunday</Day>
+        </OpeningHour>
+      </OffstreetParking>
+      <OffstreetParking>
+        <GeneralInfo>
+          <IDInfo>
+            <Name>P Station-Tack</Name>
+            <LogoURL>http://www.kortrijk.be/files/kortrijk/header/strip_Station_Tack.jpg</LogoURL>
+            <URL>http://www.kortrijk.be/adressen/p-station-tack-0</URL>
+          </IDInfo>
+          <Contact>
+            <FirstName>Parko</FirstName>
+            <LastName>agb</LastName>
+            <Position>Exploitant</Position>
+            <Phone>+3256281212</Phone>
+            <Fax>+3256281213</Fax>
+            <Email>info@parko.be</Email>
+          </Contact>
+          <Address>
+            <StreetName>Minister Tacklaan</StreetName>
+            <PostalCode>8500</PostalCode>
+            <Location>Kortrijk</Location>
+            <Country>Belgium</Country>
+          </Address>
+          <GeoLocation>
+            <Latitude>50.82365689950371</Latitude>
+            <Longitude>3.261152652587953</Longitude>
+          </GeoLocation>
+        </GeneralInfo>
+        <ParkingType>open space</ParkingType>
+        <ParkingType>parking zone</ParkingType>
+        <Feature>wheelchair accessible</Feature>
+        <PermittedVehicle>large car</PermittedVehicle>
+        <PermittedVehicle>light goods vehicles</PermittedVehicle>
+        <PermittedVehicle>small car</PermittedVehicle>
+        <UserType>all users</UserType>
+        <SecurityType>cctv</SecurityType>
+        <SecurityType>security staff</SecurityType>
+        <SupervisionType>control centre off site</SupervisionType>
+        <SupervisionType>patrol</SupervisionType>
+        <SupervisionType>remote</SupervisionType>
+        <PaymentMethod>cash</PaymentMethod>
+        <PaymentMethod>credit card</PaymentMethod>
+        <Capacity>235</Capacity>
+        <Reservations />
+        <SizeRestrictions>
+          <MaxWidth>0</MaxWidth>
+          <MaxHeight>0</MaxHeight>
+        </SizeRestrictions>
+        <Assessment>
+          <SecuritySelf>0</SecuritySelf>
+          <ServiceSelf>0</ServiceSelf>
+          <SecurityFormal>0</SecurityFormal>
+          <ServiceFormal>0</ServiceFormal>
+        </Assessment>
+        <Tariff>
+          <Name>PTA-03D</Name>
+          <Amount>0</Amount>
+          <Currency>EUR</Currency>
+          <Duration>0u</Duration>
+          <DurationLimit>=</DurationLimit>
+          <UserType>all users</UserType>
+          <UserType>visitors</UserType>
+          <VehicleType>all cars</VehicleType>
+          <FeeDescription>Daytime Tariff (8am-8pm) First 30min for Free - Dagtarief (8u-20u) Eerste 30min Gratis - Taux journalier (8h-20h) Premier 30min Gratuit</FeeDescription>
+        </Tariff>
+        <Tariff>
+          <Name>PTA-10D</Name>
+          <Amount>1</Amount>
+          <Currency>EUR</Currency>
+          <Duration>0,30u</Duration>
+          <DurationLimit>=</DurationLimit>
+          <UserType>all users</UserType>
+          <UserType>visitors</UserType>
+          <VehicleType>all cars</VehicleType>
+          <FeeDescription>Daytime Tariff (8am-8pm) Max 1 hour for 1 Euro - Dagtarief (8u-20u) Max 1 uur parkeren aan 1 Euro - Taux journalier (8h-20h) max 1 heur pour 1 Euro</FeeDescription>
+        </Tariff>
+        <Tariff>
+          <Name>PTA-12D</Name>
+          <Amount>2</Amount>
+          <Currency>EUR</Currency>
+          <Duration>1u</Duration>
+          <DurationLimit>=</DurationLimit>
+          <UserType>all users</UserType>
+          <UserType>visitors</UserType>
+          <VehicleType>all cars</VehicleType>
+          <FeeDescription>Daytime Tariff (8am-8pm) Max parktime 1h20 for 2 Euro - Dagtarief (8u-20u) Max 1u20 parkeren voor 2 Euro - Taux journalier (8h-20h) temps de stationnement max 1h20 pour 2 Euro</FeeDescription>
+        </Tariff>
+        <Tariff>
+          <Name>PTA-14D</Name>
+          <Amount>3</Amount>
+          <Currency>EUR</Currency>
+          <Duration>1u20</Duration>
+          <DurationLimit>=</DurationLimit>
+          <UserType>all users</UserType>
+          <UserType>visitors</UserType>
+          <VehicleType>all cars</VehicleType>
+          <FeeDescription>Daytime Tariff (8am-8pm) Max parktime 1h40 for 3 Euro - Dagtarief (8u-20u) Max 1u40 parkeren voor 3 Euro - Taux journalier (8h-20h) temps de stationnement max 1h40 pour 3 Euro</FeeDescription>
+        </Tariff>
+        <Tariff>
+          <Name>PTA-20D</Name>
+          <Amount>4</Amount>
+          <Currency>EUR</Currency>
+          <Duration>1u40</Duration>
+          <DurationLimit>=</DurationLimit>
+          <UserType>all users</UserType>
+          <UserType>visitors</UserType>
+          <VehicleType>all cars</VehicleType>
+          <FeeDescription>Daytime Tariff (8am-8pm) Max parktime 2h for 4 Euro - Dagtarief (8u-20u) Max 2u parkeren voor 4 Euro - Taux journalier (8h-20h) temps de stationnement max 2h pour 4 Euro</FeeDescription>
+        </Tariff>
+        <Tariff>
+          <Name>PTA-23D</Name>
+          <Amount>5</Amount>
+          <Currency>EUR</Currency>
+          <Duration>2u</Duration>
+          <DurationLimit>=</DurationLimit>
+          <UserType>all users</UserType>
+          <UserType>visitors</UserType>
+          <VehicleType>all cars</VehicleType>
+          <FeeDescription>Daytime Tariff (8am-8pm) Max parktime 2h30 for 5 Euro - Dagtarief (8u-20u) Max 2u30 parkeren voor 5 Euro - Taux journalier (8h-20h) temps de stationnement max 2h30 pour 5 Euro</FeeDescription>
+        </Tariff>
+        <Tariff>
+          <Name>PTA-30D</Name>
+          <Amount>6</Amount>
+          <Currency>EUR</Currency>
+          <Duration>2u30</Duration>
+          <DurationLimit>=</DurationLimit>
+          <UserType>all users</UserType>
+          <UserType>visitors</UserType>
+          <VehicleType>all cars</VehicleType>
+          <FeeDescription>Daytime Tariff (8am-8pm) Max parktime 3h for 6 Euro - Dagtarief (8u-20u) Max 3u parkeren voor 6 Euro - Taux journalier (8h-20h) temps de stationnement max 3h pour 6 Euro</FeeDescription>
+        </Tariff>
+        <Tariff>
+          <Name>PTA-33D</Name>
+          <Amount>6</Amount>
+          <Currency>EUR</Currency>
+          <Duration>3u</Duration>
+          <DurationLimit>=</DurationLimit>
+          <UserType>all users</UserType>
+          <UserType>visitors</UserType>
+          <VehicleType>all cars</VehicleType>
+          <FeeDescription>Daytime Tariff (8am-8pm) Max parktime 3h30 for 6 Euro - Dagtarief (8u-20u) Max 3u30 parkeren voor 6 Euro - Taux journalier (8h-20h) temps de stationnement max 3h30 pour 6 Euro</FeeDescription>
+        </Tariff>
+        <Tariff>
+          <Name>PTA+33D</Name>
+          <Amount>6</Amount>
+          <Currency>EUR</Currency>
+          <Duration>3u30</Duration>
+          <DurationLimit>=</DurationLimit>
+          <UserType>all users</UserType>
+          <UserType>visitors</UserType>
+          <VehicleType>all cars</VehicleType>
+          <FeeDescription>Daytime Tariff (8am-8pm) parktime over 3h30 for 6 Euro with a max of 12 hours - Dagtarief (8u-20u) Meer dan 3u30 parkeren voor 6 Euro met een maximum van 12 uren - Taux journalier (8h-20h) temps de stationnement plus de 3h30 pour 6 Euro avec un maximum de 12 heurs</FeeDescription>
+        </Tariff>
+        <Tariff>
+          <Name>PTA-03N</Name>
+          <Amount>0</Amount>
+          <Currency>EUR</Currency>
+          <Duration>0u</Duration>
+          <DurationLimit>=</DurationLimit>
+          <UserType>all users</UserType>
+          <UserType>visitors</UserType>
+          <VehicleType>all cars</VehicleType>
+          <FeeDescription>Nighttime Tariff (8pm-8am) First 30min for Free - Nachttarief (20u-8u) Eerste 30min Gratis - Taux journalier (20h-8h) Premier 30min Gratuit</FeeDescription>
+        </Tariff>
+        <Tariff>
+          <Name>PTA-10N</Name>
+          <Amount>0.5</Amount>
+          <Currency>EUR</Currency>
+          <Duration>0,30u</Duration>
+          <DurationLimit>=</DurationLimit>
+          <UserType>all users</UserType>
+          <UserType>visitors</UserType>
+          <VehicleType>all cars</VehicleType>
+          <FeeDescription>Nighttime Tariff (8pm-8am) Max parktime 1h for 0.50 Euro - Nachttarief (20u-8u) Max 1u parkeren voor 0,50 Euro - Tarif de nuit (20h-8h) temps de stationnement max 1h pour 0,50 Euro</FeeDescription>
+        </Tariff>
+        <Tariff>
+          <Name>PTA-12N</Name>
+          <Amount>1</Amount>
+          <Currency>EUR</Currency>
+          <Duration>1u</Duration>
+          <DurationLimit>=</DurationLimit>
+          <UserType>all users</UserType>
+          <UserType>visitors</UserType>
+          <VehicleType>all cars</VehicleType>
+          <FeeDescription>Nighttime Tariff (8pm-8am) Max parktime 1h20 for 1 Euro - Nachttarief (20u-8u) Max 1u20 parkeren voor 1 Euro - Tarif de nuit (20h-8h) temps de stationnement max 1h20 pour 1 Euro</FeeDescription>
+        </Tariff>
+        <Tariff>
+          <Name>PTA-14N</Name>
+          <Amount>1.5</Amount>
+          <Currency>EUR</Currency>
+          <Duration>1u20</Duration>
+          <DurationLimit>=</DurationLimit>
+          <UserType>all users</UserType>
+          <UserType>visitors</UserType>
+          <VehicleType>all cars</VehicleType>
+          <FeeDescription>Nighttime Tariff (8pm-8am) Max parktime 1h40 for 1,50 Euro - Nachttarief (20u-8u) Max 1u40 parkeren voor 1,50 Euro - Tarif de nuit (20h-8h) temps de stationnement max 1h40 pour 1,50 Euro</FeeDescription>
+        </Tariff>
+        <Tariff>
+          <Name>PTA-20N</Name>
+          <Amount>2</Amount>
+          <Currency>EUR</Currency>
+          <Duration>1u40</Duration>
+          <DurationLimit>=</DurationLimit>
+          <UserType>all users</UserType>
+          <UserType>visitors</UserType>
+          <VehicleType>all cars</VehicleType>
+          <FeeDescription>Nighttime Tariff (8pm-8am) Max parktime 2h for 2 Euro - Nachttarief (20u-8u) Max 2u parkeren voor 2 Euro - Tarif de nuit (20h-8h) temps de stationnement max 2h pour 2 Euro</FeeDescription>
+        </Tariff>
+        <Tariff>
+          <Name>PTA-23N</Name>
+          <Amount>2.5</Amount>
+          <Currency>EUR</Currency>
+          <Duration>2u</Duration>
+          <DurationLimit>=</DurationLimit>
+          <UserType>all users</UserType>
+          <UserType>visitors</UserType>
+          <VehicleType>all cars</VehicleType>
+          <FeeDescription>Nighttime Tariff (8pm-8am) Max parktime 2h30 for 2,50 Euro - Nachttarief (20u-8u) Max 2u30 parkeren voor 2,50 Euro - Tarif de nuit (20h-8h) temps de stationnement max 2h30 pour 2,50 Euro</FeeDescription>
+        </Tariff>
+        <Tariff>
+          <Name>PTA-30N</Name>
+          <Amount>3</Amount>
+          <Currency>EUR</Currency>
+          <Duration>2u30</Duration>
+          <DurationLimit>=</DurationLimit>
+          <UserType>all users</UserType>
+          <UserType>visitors</UserType>
+          <VehicleType>all cars</VehicleType>
+          <FeeDescription>Nighttime Tariff (8pm-8am) Max parktime 3h for 3 Euro - Nachttarief (20u-8u) Max 3u parkeren voor 3 Euro - Tarif de nuit (20h-8h) temps de stationnement max 3h pour 3 Euro</FeeDescription>
+        </Tariff>
+        <Tariff>
+          <Name>PTA-33N</Name>
+          <Amount>3</Amount>
+          <Currency>EUR</Currency>
+          <Duration>3u</Duration>
+          <DurationLimit>=</DurationLimit>
+          <UserType>all users</UserType>
+          <UserType>visitors</UserType>
+          <VehicleType>all cars</VehicleType>
+          <FeeDescription>Nighttime Tariff (8pm-8am) Max parktime 3h30 for 3 Euro - Nachttarief (20u-8u) Max 3u30 parkeren voor 3 Euro - Tarif de nuit (20h-8h) temps de stationnement max 3h30 pour 3 Euro</FeeDescription>
+        </Tariff>
+        <Tariff>
+          <Name>PTA+33N</Name>
+          <Amount>3</Amount>
+          <Currency>EUR</Currency>
+          <Duration>3u30</Duration>
+          <DurationLimit>=</DurationLimit>
+          <UserType>all users</UserType>
+          <UserType>visitors</UserType>
+          <VehicleType>all cars</VehicleType>
+          <FeeDescription>Nighttime Tariff (8pm-8am) parktime over 3h30 for 3 Euro with a maximum of 12 hours - Nachttarief (20u-8u) Meer dan 3u30 parkeren voor 3 Euro met een maximum van 12 uren - Tarif de nuit (8h-20h) temps de stationnement plus de 3h30 pour 3 Euro</FeeDescription>
+        </Tariff>
+        <OpeningHour>
+          <Name>PTA-MONDAY</Name>
+          <StartDate xsi:nil="true" />
+          <EndDate xsi:nil="true" />
+          <StartTime>00:00:00.0000000+01:00</StartTime>
+          <EndTime>00:00:00.0000000+01:00</EndTime>
+          <Day>Monday</Day>
+        </OpeningHour>
+        <OpeningHour>
+          <Name>PTA-TUESDAY</Name>
+          <StartDate xsi:nil="true" />
+          <EndDate xsi:nil="true" />
+          <StartTime>00:00:00.0000000+01:00</StartTime>
+          <EndTime>00:00:00.0000000+01:00</EndTime>
+          <Day>Tuesday</Day>
+        </OpeningHour>
+        <OpeningHour>
+          <Name>PTA-WEDNESDAY</Name>
+          <StartDate xsi:nil="true" />
+          <EndDate xsi:nil="true" />
+          <StartTime>00:00:00.0000000+01:00</StartTime>
+          <EndTime>00:00:00.0000000+01:00</EndTime>
+          <Day>Wednesday</Day>
+        </OpeningHour>
+        <OpeningHour>
+          <Name>PTA-THURSDAY</Name>
+          <StartDate xsi:nil="true" />
+          <EndDate xsi:nil="true" />
+          <StartTime>00:00:00.0000000+01:00</StartTime>
+          <EndTime>00:00:00.0000000+01:00</EndTime>
+          <Day>Thursday</Day>
+        </OpeningHour>
+        <OpeningHour>
+          <Name>PTA-FRIDAY</Name>
+          <StartDate xsi:nil="true" />
+          <EndDate xsi:nil="true" />
+          <StartTime>00:00:00.0000000+01:00</StartTime>
+          <EndTime>00:00:00.0000000+01:00</EndTime>
+          <Day>Friday</Day>
+        </OpeningHour>
+        <OpeningHour>
+          <Name>PTA-SATURDAY</Name>
+          <StartDate xsi:nil="true" />
+          <EndDate xsi:nil="true" />
+          <StartTime>00:00:00.0000000+01:00</StartTime>
+          <EndTime>00:00:00.0000000+01:00</EndTime>
+          <Day>Saturday</Day>
+        </OpeningHour>
+        <OpeningHour>
+          <Name>PTA-SUNDAY</Name>
+          <StartDate xsi:nil="true" />
+          <EndDate xsi:nil="true" />
+          <StartTime>00:00:00.0000000+01:00</StartTime>
+          <EndTime>00:00:00.0000000+01:00</EndTime>
+          <Day>Sunday</Day>
+        </OpeningHour>
+        <Subscription>
+          <Name>Persoonsabonnement T1</Name>
+          <Fee>45</Fee>
+          <Currency>EUR</Currency>
+          <Description>Personal Subscription T1: Monday - Friday / 8am-8pm (Monthly subscription) - Persoonsabonnement T1: Maandag - Vrijdag / 8u-20u (Maandabonnement) - Abonnement Personnel T1: Lundi - Vendredi / 8h-20h (Abonnement Mensuel)</Description>
+        </Subscription>
+        <Subscription>
+          <Name>Persoonsabonnement T2</Name>
+          <Fee>55</Fee>
+          <Currency>EUR</Currency>
+          <Description>Personal Subscription T2: Monday - Sunday / 8am-8pm (Monthly subscription) - Persoonsabonnement T2: Maandag - Zondag / 8u-20u (Maandabonnement) - Abonnement Personnel T2: Lundi - Dimanche / 8h-20h (Abonnement Mensuel)</Description>
+        </Subscription>
+        <Subscription>
+          <Name>Persoonsabonnement T3</Name>
+          <Fee>65</Fee>
+          <Currency>EUR</Currency>
+          <Description>Personal Subscription T3: 7days on 7 / 24/24h (Monthly subscription) - Persoonsabonnement T3: 7 dagen op 7 / 24/24u (Maandabonnement) - Abonnement Personnel T3: Lundi - Dimanche / 8h-20h (Abonnement Mensuel)</Description>
+        </Subscription>
+        <Subscription>
+          <Name>Bewonersabonnement 1e vergunning</Name>
+          <Fee>20</Fee>
+          <Currency>EUR</Currency>
+          <Description>Residents Subscription 1e license (7/7d - 24/24h) (Monthly) - Bewonersabonnement 1e vergunning (7/7d - 24/24u) (per maand) - Abonnement Résidents 1e permis (24h-24h)</Description>
+        </Subscription>
+        <Subscription>
+          <Name>Bewonersabonnement 2e vergunning</Name>
+          <Fee>30</Fee>
+          <Currency>EUR</Currency>
+          <Description>Residents Subscription 2nd license (7/7d - 24/24h) (Monthly) - Bewonersabonnement 2e vergunning (7/7d - 24/24u) (per maand) - Abonnement Résidents 2e permis (24h-24h)</Description>
+        </Subscription>
+      </OffstreetParking>
+      <OffstreetParking>
+        <GeneralInfo>
+          <IDInfo>
+            <Name>P Expo</Name>
+            <LogoURL>http://www.kortrijk.be/files/kortrijk/header/strip_Expo.jpg</LogoURL>
+            <URL>http://www.kortrijk.be/adressen/p-expo</URL>
+          </IDInfo>
+          <Contact>
+            <FirstName>Parko</FirstName>
+            <LastName>agb</LastName>
+            <Position>Exploitant</Position>
+            <Phone>+3256281203</Phone>
+            <Fax>+3256281212</Fax>
+            <Email>info@parko.be</Email>
+          </Contact>
+          <Address>
+            <StreetName>President Kennedylaan</StreetName>
+            <HouseNumber>100</HouseNumber>
+            <PostalCode>8500</PostalCode>
+            <Location>Kortrijk</Location>
+            <Country>Belgium</Country>
+          </Address>
+          <GeoLocation>
+            <Latitude>50.80537438943953</Latitude>
+            <Longitude>3.276924041595521</Longitude>
+          </GeoLocation>
+        </GeneralInfo>
+        <ParkingType>highway</ParkingType>
+        <ParkingType>open space</ParkingType>
+        <ParkingType>parking zone</ParkingType>
+        <Feature>information point</Feature>
+        <Feature>wheelchair accessible</Feature>
+        <PermittedVehicle>all cars</PermittedVehicle>
+        <UserType>all users</UserType>
+        <SecurityType>24/24 guard</SecurityType>
+        <SecurityType>cctv</SecurityType>
+        <SecurityType>security staff</SecurityType>
+        <SupervisionType>control centre on site</SupervisionType>
+        <SupervisionType>on site</SupervisionType>
+        <SupervisionType>patrol</SupervisionType>
+        <PaymentMethod>cash</PaymentMethod>
+        <PaymentMethod>credit card</PaymentMethod>
+        <Capacity>2703</Capacity>
+        <Reservations />
+        <SizeRestrictions>
+          <MaxWidth>0</MaxWidth>
+          <MaxHeight>0</MaxHeight>
+        </SizeRestrictions>
+        <Assessment>
+          <SecuritySelf>0</SecuritySelf>
+          <ServiceSelf>0</ServiceSelf>
+          <SecurityFormal>0</SecurityFormal>
+          <ServiceFormal>0</ServiceFormal>
+        </Assessment>
+        <Tariff>
+          <Name>PEX-BEURS</Name>
+          <Amount>0</Amount>
+          <Currency>EUR</Currency>
+          <Duration>Day</Duration>
+          <DurationLimit>=</DurationLimit>
+          <UserType>all users</UserType>
+          <UserType>visitors</UserType>
+          <VehicleType>all cars</VehicleType>
+          <FeeDescription>Tariffs are daily depending - Tarieven afhankelijk van de beurzen op Expo - Les tarifs sont par jour, selon</FeeDescription>
+        </Tariff>
+        <OpeningHour>
+          <Name>PEX-MONDAY</Name>
+          <StartDate xsi:nil="true" />
+          <EndDate xsi:nil="true" />
+          <StartTime>00:00:00.0000000+01:00</StartTime>
+          <EndTime>00:00:00.0000000+01:00</EndTime>
+          <Day>Monday</Day>
+        </OpeningHour>
+        <OpeningHour>
+          <Name>PEX-TUESDAY</Name>
+          <StartDate xsi:nil="true" />
+          <EndDate xsi:nil="true" />
+          <StartTime>00:00:00.0000000+01:00</StartTime>
+          <EndTime>00:00:00.0000000+01:00</EndTime>
+          <Day>Tuesday</Day>
+        </OpeningHour>
+        <OpeningHour>
+          <Name>PEX-WEDNESDAY</Name>
+          <StartDate xsi:nil="true" />
+          <EndDate xsi:nil="true" />
+          <StartTime>00:00:00.0000000+01:00</StartTime>
+          <EndTime>00:00:00.0000000+01:00</EndTime>
+          <Day>Wednesday</Day>
+        </OpeningHour>
+        <OpeningHour>
+          <Name>PEX-THURSDAY</Name>
+          <StartDate xsi:nil="true" />
+          <EndDate xsi:nil="true" />
+          <StartTime>00:00:00.0000000+01:00</StartTime>
+          <EndTime>00:00:00.0000000+01:00</EndTime>
+          <Day>Thursday</Day>
+        </OpeningHour>
+        <OpeningHour>
+          <Name>PEX-FRIDAY</Name>
+          <StartDate xsi:nil="true" />
+          <EndDate xsi:nil="true" />
+          <StartTime>00:00:00.0000000+01:00</StartTime>
+          <EndTime>00:00:00.0000000+01:00</EndTime>
+          <Day>Friday</Day>
+        </OpeningHour>
+        <OpeningHour>
+          <Name>PEX-SATURDAY</Name>
+          <StartDate xsi:nil="true" />
+          <EndDate xsi:nil="true" />
+          <StartTime>00:00:00.0000000+01:00</StartTime>
+          <EndTime>00:00:00.0000000+01:00</EndTime>
+          <Day>Saturday</Day>
+        </OpeningHour>
+        <OpeningHour>
+          <Name>PEX-SUNDAY</Name>
+          <StartDate xsi:nil="true" />
+          <EndDate xsi:nil="true" />
+          <StartTime>00:00:00.0000000+01:00</StartTime>
+          <EndTime>00:00:00.0000000+01:00</EndTime>
+          <Day>Sunday</Day>
+        </OpeningHour>
+      </OffstreetParking>
+      <OffstreetParking>
+        <GeneralInfo>
+          <IDInfo>
+            <Name>Park + Ride</Name>
+            <LogoURL>http://www.kortrijk.be/files/kortrijk/header/strip_Expo.jpg</LogoURL>
+            <URL>http://www.kortrijk.be/producten/park-ride</URL>
+          </IDInfo>
+          <Contact>
+            <FirstName>Parko</FirstName>
+            <LastName>agb</LastName>
+            <Position>Exploitant</Position>
+            <Phone>+3256281212</Phone>
+            <Fax>+3256281213</Fax>
+            <Email>info@parko.be</Email>
+          </Contact>
+          <Address>
+            <StreetName>President Kennedylaan</StreetName>
+            <PostalCode>8500</PostalCode>
+            <Location>Kortrijk</Location>
+            <Country>Belgium</Country>
+          </Address>
+          <GeoLocation>
+            <Latitude>50.80487943522071</Latitude>
+            <Longitude>3.277224449005189</Longitude>
+          </GeoLocation>
+        </GeneralInfo>
+        <ParkingType>open space</ParkingType>
+        <ParkingType>park and ride</ParkingType>
+        <ParkingType>parking zone</ParkingType>
+        <Feature>information point</Feature>
+        <Feature>wheelchair accessible</Feature>
+        <PermittedVehicle>all cars</PermittedVehicle>
+        <UserType>all users</UserType>
+        <SecurityType>cctv</SecurityType>
+        <SecurityType>security staff</SecurityType>
+        <SupervisionType>control centre off site</SupervisionType>
+        <SupervisionType>remote</SupervisionType>
+        <PaymentMethod>cash</PaymentMethod>
+        <PaymentMethod>credit card</PaymentMethod>
+        <Capacity>448</Capacity>
+        <Reservations />
+        <SizeRestrictions>
+          <MaxWidth>0</MaxWidth>
+          <MaxHeight>0</MaxHeight>
+        </SizeRestrictions>
+        <Assessment>
+          <SecuritySelf>0</SecuritySelf>
+          <ServiceSelf>0</ServiceSelf>
+          <SecurityFormal>0</SecurityFormal>
+          <ServiceFormal>0</ServiceFormal>
+        </Assessment>
+        <Tariff>
+          <Name>PPR-BEURS</Name>
+          <Amount>0</Amount>
+          <Currency>EUR</Currency>
+          <Duration>Day</Duration>
+          <DurationLimit>=</DurationLimit>
+          <UserType>all users</UserType>
+          <UserType>visitors</UserType>
+          <VehicleType>all cars</VehicleType>
+          <FeeDescription>Tariffs are daily depending - Tarieven afhankelijk van de beurzen op Expo - Les tarifs sont par jour, selon</FeeDescription>
+        </Tariff>
+        <OpeningHour>
+          <Name>PPR-MONDAY</Name>
+          <StartDate xsi:nil="true" />
+          <EndDate xsi:nil="true" />
+          <StartTime>00:00:00.0000000+01:00</StartTime>
+          <EndTime>00:00:00.0000000+01:00</EndTime>
+          <Day>Monday</Day>
+        </OpeningHour>
+        <OpeningHour>
+          <Name>PPR-TUESDAY</Name>
+          <StartDate xsi:nil="true" />
+          <EndDate xsi:nil="true" />
+          <StartTime>00:00:00.0000000+01:00</StartTime>
+          <EndTime>00:00:00.0000000+01:00</EndTime>
+          <Day>Tuesday</Day>
+        </OpeningHour>
+        <OpeningHour>
+          <Name>PPR-WEDNESDAY</Name>
+          <StartDate xsi:nil="true" />
+          <EndDate xsi:nil="true" />
+          <StartTime>00:00:00.0000000+01:00</StartTime>
+          <EndTime>00:00:00.0000000+01:00</EndTime>
+          <Day>Wednesday</Day>
+        </OpeningHour>
+        <OpeningHour>
+          <Name>PPR-THURSDAY</Name>
+          <StartDate xsi:nil="true" />
+          <EndDate xsi:nil="true" />
+          <StartTime>00:00:00.0000000+01:00</StartTime>
+          <EndTime>00:00:00.0000000+01:00</EndTime>
+          <Day>Thursday</Day>
+        </OpeningHour>
+        <OpeningHour>
+          <Name>PPR-FRIDAY</Name>
+          <StartDate xsi:nil="true" />
+          <EndDate xsi:nil="true" />
+          <StartTime>00:00:00.0000000+01:00</StartTime>
+          <EndTime>00:00:00.0000000+01:00</EndTime>
+          <Day>Friday</Day>
+        </OpeningHour>
+        <OpeningHour>
+          <Name>PPR-SATURDAY</Name>
+          <StartDate xsi:nil="true" />
+          <EndDate xsi:nil="true" />
+          <StartTime>00:00:00.0000000+01:00</StartTime>
+          <EndTime>00:00:00.0000000+01:00</EndTime>
+          <Day>Saturday</Day>
+        </OpeningHour>
+        <OpeningHour>
+          <Name>PPR-SUNDAY</Name>
+          <StartDate xsi:nil="true" />
+          <EndDate xsi:nil="true" />
+          <StartTime>00:00:00.0000000+01:00</StartTime>
+          <EndTime>00:00:00.0000000+01:00</EndTime>
+          <Day>Sunday</Day>
+        </OpeningHour>
+      </OffstreetParking>
+    </Operator>
+  </Authority>
+</ITSPS>
